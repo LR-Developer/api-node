@@ -1,0 +1,8 @@
+Node
+https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
+
+Mongo
+https://docs.mongodb.com/master/tutorial/install-mongodb-on-ubuntu/?_ga=2.39297763.1902451891.1539883837-1631341400.1539883837
+
+API Node
+https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
