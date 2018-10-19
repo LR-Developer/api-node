@@ -1,19 +1,19 @@
 {
   "name": "resthub",
   "version": "1.0.0",
-  "description": "An app demonstrating simple RESTful API implementation.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "api",
-    "restful",
-    "json"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LR-Developer/api-node.git"
+  },
   "author": "LR-Developer",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "bugs": {
+    "url": "https://github.com/LR-Developer/api-node/issues"
+  },
+  "homepage": "https://github.com/LR-Developer/api-node#readme"
 }
